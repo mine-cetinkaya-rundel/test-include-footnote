@@ -1,0 +1,7 @@
+1.  **Item 1.** Hello.[^_item_1-1]
+
+    ```{r}
+    plot(cars)
+    ```
+
+[^_item_1-1]: But switching over the the visual editor moves the footnote, which breaks the counter again.

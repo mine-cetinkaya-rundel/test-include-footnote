@@ -1,0 +1,6 @@
+1.  **Item 2.** Hi.
+
+    ```{r}
+    head(cars) |>
+      knitr::kable()
+    ```

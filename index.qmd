@@ -1,0 +1,7 @@
+# Chp 1
+
+## Exercises
+
+{{< include _item_1.qmd >}}
+
+{{< include _item_2.qmd >}}
